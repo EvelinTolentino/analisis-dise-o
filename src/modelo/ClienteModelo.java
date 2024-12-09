@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package modelo;
 
 /**
@@ -9,5 +5,11 @@ package modelo;
  * @author EVELIN
  */
 public class ClienteModelo {
+    private String dni;
+    private String nombre;
+    private String direccion;
+    private String telefono;
+    private String email;
+    
     
 }

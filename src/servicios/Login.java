@@ -62,7 +62,6 @@ public class Login extends javax.swing.JFrame {
 
         txtUsuario.setToolTipText("");
 
-        txtContrasena.setText("jPasswordField1");
         txtContrasena.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 txtContrasenaActionPerformed(evt);
